@@ -1,0 +1,10 @@
+.dashboard-widget-chart-container {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.dashboard-widget-chart-select {
+    margin-bottom: 10px;
+}
